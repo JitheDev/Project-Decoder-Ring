@@ -11,3 +11,13 @@ Built with:
 * JavaScript
 * Bootstrap 4
 * HTML
+
+# Screenshots
+Example of using the Caesar Shift to encode a message:
+![Caesar Shift Encode](/src/caesarshift.jpg)
+
+Example of using the Polybius Square to encode a message:
+![Polybius Square Encode](/src/polybiussquare.jpg)
+
+Example of using the Substitution Cipher to encode a message:
+![Substitution Cipher Encode](/src/substitutioncipher.jpg)
