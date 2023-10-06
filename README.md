@@ -13,7 +13,12 @@ Built with:
 * HTML
 
 # Installation
-After cloning this project ensure that you do install node_modules by running the npm install command and live viewing/testing. If you are using VSCODE I recommend installing the live server extension if you have no already 
+1) Clone this Repository by clicking the Code button and copy the URL
+2) In a terminal utilize the command git clone + the copied URL
+3) Navigate to your porject file
+4) Install Dependencies using `npm install` in your terminal
+5) To run the development server utilize the `npm start` command
+6) Enjoy encrpyting some messages!
 
 # Screenshots
 Example of using the Caesar Shift to encode a message:
