@@ -12,6 +12,9 @@ Built with:
 * Bootstrap 4
 * HTML
 
+#Installation
+After cloning this project ensure that you do install node_modules by running the npm install command and live viewing/testing. If you are using VSCODE I recommend installing the live server extension if you have no already 
+
 # Screenshots
 Example of using the Caesar Shift to encode a message:
 ![Caesar Shift Encode](/src/caesarshift.jpg)
